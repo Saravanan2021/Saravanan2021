@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2YzNjYyNjEyODkwMjA2NWE0YTRiZmUxMzAxN2YzNDY5OGFlNDViOSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanan2021&label=Profile%20views&color=0e75b6&style=flat" alt="saravanan2021" /> </p>
 
-- 🌱 I’m currently learning **Courses related to Data Engineering and Sciencee**
+- 🌱 I’m currently learning **Courses related to Data Engineering and Science**
 
 - 📫 How to reach me **pushpakumarsaravanan20@gmail.com**
 
